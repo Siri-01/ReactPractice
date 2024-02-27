@@ -1,0 +1,28 @@
+body {
+    background-image: url(https://images.freecreatives.com/wp-content/uploads/2016/04/Solid-Black-Website-Background.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+  
+  .container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+  }
+  
+  .userlist {
+    color: white;
+    align-items: 'center';
+    
+  }
+  
+  .u {
+    color: white;
+    font-size: 20px;
+    font-style: normal;
+    align-items: 'center';
+  }
+  
